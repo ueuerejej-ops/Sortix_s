@@ -10,7 +10,6 @@ Fast file organizer with GUI built using egui.
 * Undo sorting
 * Multi-threaded file processing
 
-<img width="1133" height="777" alt="Screenshot from 2026-05-04 12-19-14" src="https://github.com/user-attachments/assets/7143baf5-60a5-477e-b0db-953d5f855838" />
 
 
 (вставишь скрин своего приложения)
@@ -39,3 +38,8 @@ cargo run
 * [ ] Add progress bar
 * [ ] Improve undo system
 * [ ] Add drag & drop
+
+before:
+<img width="1133" height="777" alt="Screenshot from 2026-05-04 12-19-14" src="https://github.com/user-attachments/assets/7143baf5-60a5-477e-b0db-953d5f855838" />
+after:
+<img width="1133" height="777" alt="Screenshot from 2026-05-04 12-19-31" src="https://github.com/user-attachments/assets/63b8afc3-296a-42a2-9a9a-163033da40c2" />
